@@ -1,0 +1,17 @@
+[build]
+  publish = "/"
+
+[[redirects]]
+  from = "/probleem"
+  to = "/probleem.html"
+  status = 200
+
+[[redirects]]
+  from = "/aanpak"
+  to = "/aanpak.html"
+  status = 200
+
+[[redirects]]
+  from = "/over-ons"
+  to = "/over-ons.html"
+  status = 200

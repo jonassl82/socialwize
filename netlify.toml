@@ -15,3 +15,8 @@
   from = "/over-ons"
   to = "/over-ons.html"
   status = 200
+
+[[redirects]]
+  from = "/boek"
+  to = "/boek.html"
+  status = 200
